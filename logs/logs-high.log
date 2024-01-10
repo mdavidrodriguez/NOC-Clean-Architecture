@@ -1,0 +1,2 @@
+{"message":"Service de prueba funcionando https://google.com working","level":"low","createdAt":"2024-01-10T13:56:47.282Z","origin":"check-service.ts"}
+{"message":"Log email sent","level":"high","createdAt":"2024-01-10T15:12:22.825Z","origin":"sen-email-logs.ts"}
